@@ -9,7 +9,7 @@ This repository consists of several main folders, each of which has a specific f
 - **Folder `advice`**: Contains datasets used for advisory purposes. These datasets can be used to train or test models that provide advice based on the given inputs.
 
 - **Folder `categorize`**: Contains two trained models used to categorize the data. Each model is placed in a separate folder:
-- 
+
 ## Usage
 
 ### Dataset (`advice`)
